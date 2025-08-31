@@ -1,9 +1,15 @@
 "use client";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import style from "@/styles/DraftPage.module.css";
 
 export default function HeroSearchModal({ isModalOpen, closePopUp, heroes, handleHeroSelect }) {
     const [query, setQuery] = useState("");
+
+    useEffect(() => {
+        if (!isModalOpen) {
+            setQuery("");
+        }
+    }, [isModalOpen])
 
     if (!isModalOpen) return null;
 
