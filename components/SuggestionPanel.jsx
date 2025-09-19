@@ -19,11 +19,25 @@ export default function SuggestionPanel({ heroes, bans, allies, enemies, pickedL
                             <img src={heroes[hero.heroId - 1].icons.round} alt={heroes[hero.heroId - 1].name} />
                             <div className={style.heroDescription}>
                                 <p>{heroes[hero.heroId - 1].name}</p>
-                                <ul>
-                                    {hero.reasons.map((reason, i) => (
-                                        <li key={i}>{reason}</li>
-                                    ))}
-                                </ul>
+
+                                {/* Positive Reasons */}
+                                {hero.pros.length > 0 && (
+                                    <ul className={style.greenColor}>
+                                        {hero.pros.map((reason, i) => (
+                                            <li key={i}>{reason}</li>
+                                        ))}
+                                    </ul>
+                                )}
+
+                                {/* Negative Reasons */}
+                                {hero.cons.length > 0 && (
+                                    <ul className={style.redColor}>
+                                        {hero.cons.map((reason, i) => (
+                                            <li key={i}>{reason}</li>
+                                        ))}
+                                    </ul>
+                                )}
+
                             </div>
                             <p className={style.heroScore}>{formattedScore}</p>
                         </div>

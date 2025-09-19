@@ -195,4 +195,13 @@
     position: absolute;
     right: 20px;
     margin: auto;
+    letter-spacing: 2px;
+}
+
+.greenColor {
+    color: rgb(12, 200, 12);
+}
+
+.redColor {
+    color: rgb(184, 19, 19);
 }
