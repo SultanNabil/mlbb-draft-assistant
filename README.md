@@ -1,4 +1,7 @@
 **Last data update:** June 2026 by LipanB
+DC: discord.gg/CNqFKDs5pK
+YT: youtube.com/@LipanB
+IG: instagram.com/lipanb7
 
 # MLBB Draft Assistant
 
