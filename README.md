@@ -37,7 +37,7 @@ All data is based on publicly available information from the
 
 The dataset only includes the top 5–10 visible relationships per hero, so the results are approximate and should be used as a general guideline rather than an absolute reference.
 
-**Last data update:** November 2025
+**Last data update:** June 2026
 
 ---
 
