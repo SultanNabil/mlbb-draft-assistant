@@ -695,7 +695,7 @@
     },
     {
         "id": 44,
-        "name": "Grock",
+        "name": "44. Grock",
         "role": ["Tank", "Fighter"],
         "lane": ["Roam", "Exp Lane"],
         "icons": {
@@ -709,7 +709,7 @@
     },
     {
         "id": 45,
-        "name": "Argus",
+        "name": "45. Argus",
         "role": ["Fighter"],
         "lane": ["Exp Lane"],
         "icons": {
