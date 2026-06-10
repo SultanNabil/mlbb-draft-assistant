@@ -810,7 +810,7 @@
     },
     {
         "id": 51,
-        "name": "Helcurt",
+        "name": "51. Helcurt",
         "role": ["Assassin"],
         "lane": ["Jungle"],
         "icons": {
@@ -824,7 +824,7 @@
     },
     {
         "id": 52,
-        "name": "Pharsa",
+        "name": "52. Pharsa",
         "role": ["Mage"],
         "lane": ["Mid Lane"],
         "icons": {
@@ -840,7 +840,7 @@
     },
     {
         "id": 53,
-        "name": "Lesley",
+        "name": "53. Lesley",
         "role": ["Marksman", "Assassin"],
         "lane": ["Gold Lane"],
         "icons": {
@@ -854,7 +854,7 @@
     },
     {
         "id": 54,
-        "name": "Jawhead",
+        "name": "54. Jawhead",
         "role": ["Fighter"],
         "lane": ["Roam", "Exp Lane"],
         "icons": {
@@ -868,7 +868,7 @@
     },
     {
         "id": 55,
-        "name": "Angela",
+        "name": "55. Angela",
         "role": ["Support"],
         "lane": ["Roam"],
         "icons": {
@@ -887,7 +887,7 @@
     },
     {
         "id": 56,
-        "name": "Gusion",
+        "name": "56. Gusion",
         "role": ["Assassin"],
         "lane": ["Jungle", "Mid Lane"],
         "icons": {
@@ -901,7 +901,7 @@
     },
     {
         "id": 57,
-        "name": "Valir",
+        "name": "57. Valir",
         "role": ["Mage"],
         "lane": ["Mid Lane"],
         "icons": {
@@ -915,7 +915,7 @@
     },
     {
         "id": 58,
-        "name": "Martis",
+        "name": "58. Martis",
         "role": ["Fighter"],
         "lane": ["Jungle"],
         "icons": {
@@ -929,7 +929,7 @@
     },
     {
         "id": 59,
-        "name": "Uranus",
+        "name": "59.Uranus",
         "role": ["Tank"],
         "lane": ["Exp Lane"],
         "icons": {
@@ -945,7 +945,7 @@
     },
     {
         "id": 60,
-        "name": "Hanabi",
+        "name": "60. Hanabi",
         "role": ["Marksman"],
         "lane": ["Gold Lane"],
         "icons": {
@@ -959,7 +959,7 @@
     },
     {
         "id": 61,
-        "name": "Chang'e",
+        "name": "61. Chang'e",
         "role": ["Mage"],
         "lane": ["Mid Lane"],
         "icons": {
@@ -973,7 +973,7 @@
     },
     {
         "id": 62,
-        "name": "Kaja",
+        "name": "62. Kaja",
         "role": ["Support", "Fighter"],
         "lane": ["Roam"],
         "icons": {
@@ -997,7 +997,7 @@
     },
     {
         "id": 63,
-        "name": "Selena",
+        "name": "63. Selena",
         "role": ["Assassin", "Mage"],
         "lane": ["Mid Lane", "Roam"],
         "icons": {
@@ -1011,7 +1011,7 @@
     },
     {
         "id": 64,
-        "name": "Aldous",
+        "name": "64. Aldous",
         "role": ["Fighter"],
         "lane": ["Exp Lane"],
         "icons": {
@@ -1030,7 +1030,7 @@
     },
     {
         "id": 65,
-        "name": "Claude",
+        "name": "65. Claude",
         "role": ["Marksman"],
         "lane": ["Gold Lane"],
         "icons": {
@@ -1044,7 +1044,7 @@
     },
     {
         "id": 66,
-        "name": "Vale",
+        "name": "66. Vale",
         "role": ["Mage"],
         "lane": ["Mid Lane"],
         "icons": {
@@ -1058,7 +1058,7 @@
     },
     {
         "id": 67,
-        "name": "Leomord",
+        "name": "67. Leomord",
         "role": ["Fighter"],
         "lane": ["Jungle"],
         "icons": {
@@ -1077,7 +1077,7 @@
     },
     {
         "id": 68,
-        "name": "Lunox",
+        "name": "68. Lunox",
         "role": ["Mage"],
         "lane": ["Mid Lane"],
         "icons": {
@@ -1093,7 +1093,7 @@
     },
     {
         "id": 69,
-        "name": "Hanzo",
+        "name": "69. Hanzo",
         "role": ["Assassin"],
         "lane": ["Jungle"],
         "icons": {
@@ -1118,7 +1118,7 @@
     },
     {
         "id": 70,
-        "name": "Belerick",
+        "name": "70. Belerick",
         "role": ["Tank"],
         "lane": ["Roam"],
         "icons": {
