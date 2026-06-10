@@ -1481,7 +1481,7 @@
     },
     {
         "id": 91,
-        "name": "Cecilion",
+        "name": "91. Cecilion",
         "role": ["Mage"],
         "lane": ["Mid Lane"],
         "icons": {
@@ -1495,7 +1495,7 @@
     },
     {
         "id": 92,
-        "name": "Carmilla",
+        "name": "92. Carmilla",
         "role": ["Support", "Tank"],
         "lane": ["Roam"],
         "icons": {
@@ -1511,7 +1511,7 @@
     },
     {
         "id": 93,
-        "name": "Atlas",
+        "name": "93. Atlas",
         "role": ["Tank"],
         "lane": ["Roam"],
         "icons": {
@@ -1533,7 +1533,7 @@
     },
     {
         "id": 94,
-        "name": "Popol and Kupa",
+        "name": "94. Popol and Kupa",
         "role": ["Marksman"],
         "lane": ["Jungle", "Gold Lane"],
         "icons": {
@@ -1555,7 +1555,7 @@
     },
     {
         "id": 95,
-        "name": "Yu Zhong",
+        "name": "95. Yu Zhong",
         "role": ["Fighter"],
         "lane": ["Exp Lane"],
         "icons": {
@@ -1569,7 +1569,7 @@
     },
     {
         "id": 96,
-        "name": "Luo Yi",
+        "name": "96. Luo Yi",
         "role": ["Mage"],
         "lane": ["Mid Lane"],
         "icons": {
@@ -1588,7 +1588,7 @@
     },
     {
         "id": 97,
-        "name": "Benedetta",
+        "name": "97. Benedetta",
         "role": ["Assassin", "Fighter"],
         "lane": ["Exp Lane"],
         "icons": {
@@ -1602,7 +1602,7 @@
     },
     {
         "id": 98,
-        "name": "Khaleed",
+        "name": "98. Khaleed",
         "role": ["Fighter"],
         "lane": ["Exp Lane", "Roam"],
         "icons": {
@@ -1616,7 +1616,7 @@
     },
     {
         "id": 99,
-        "name": "Barats",
+        "name": "99. Barats",
         "role": ["Tank", "Fighter"],
         "lane": ["Jungle"],
         "icons": {
@@ -1642,7 +1642,7 @@
     },
     {
         "id": 100,
-        "name": "Brody",
+        "name": "100. Brody",
         "role": ["Marksman"],
         "lane": ["Gold Lane"],
         "icons": {
@@ -1656,7 +1656,7 @@
     },
     {
         "id": 101,
-        "name": "Yve",
+        "name": "101. Yve",
         "role": ["Mage"],
         "lane": ["Mid Lane"],
         "icons": {
@@ -1672,7 +1672,7 @@
     },
     {
         "id": 102,
-        "name": "Mathilda",
+        "name": "102. Mathilda",
         "role": ["Support", "Assassin"],
         "lane": ["Roam"],
         "icons": {
@@ -1693,7 +1693,7 @@
     },
     {
         "id": 103,
-        "name": "Paquito",
+        "name": "103. Paquito",
         "role": ["Fighter", "Assassin"],
         "lane": ["Exp Lane"],
         "icons": {
@@ -1707,7 +1707,7 @@
     },
     {
         "id": 104,
-        "name": "Gloo",
+        "name": "104. Gloo",
         "role": ["Tank"],
         "lane": ["Exp Lane", "Roam"],
         "icons": {
@@ -1729,7 +1729,7 @@
     },
     {
         "id": 105,
-        "name": "Beatrix",
+        "name": "105. Beatrix",
         "role": ["Marksman"],
         "lane": ["Gold Lane"],
         "icons": {
@@ -1743,7 +1743,7 @@
     },
     {
         "id": 106,
-        "name": "Phoveus",
+        "name": "106. Phoveus",
         "role": ["Fighter"],
         "lane": ["Exp Lane"],
         "icons": {
@@ -1761,7 +1761,7 @@
     },
     {
         "id": 107,
-        "name": "Natan",
+        "name": "107. Natan",
         "role": ["Marksman"],
         "lane": ["Gold Lane"],
         "icons": {
@@ -1777,7 +1777,7 @@
     },
     {
         "id": 108,
-        "name": "Aulus",
+        "name": "108. Aulus",
         "role": ["Fighter"],
         "lane": ["Jungle"],
         "icons": {
@@ -1799,7 +1799,7 @@
     },
     {
         "id": 109,
-        "name": "Aamon",
+        "name": "109. Aamon",
         "role": ["Assassin"],
         "lane": ["Jungle"],
         "icons": {
@@ -1815,7 +1815,7 @@
     },
     {
         "id": 110,
-        "name": "Valentina",
+        "name": "110. Valentina",
         "role": ["Mage"],
         "lane": ["Mid Lane"],
         "icons": {
@@ -1836,7 +1836,7 @@
     },
     {
         "id": 111,
-        "name": "Edith",
+        "name": "111. Edith",
         "role": ["Tank", "Marksman"],
         "lane": ["Exp Lane", "Roam"],
         "icons": {
@@ -1853,7 +1853,7 @@
     },
     {
         "id": 112,
-        "name": "Floryn",
+        "name": "112. Floryn",
         "role": ["Support"],
         "lane": ["Roam"],
         "icons": {
@@ -1870,7 +1870,7 @@
     },
     {
         "id": 113,
-        "name": "Yin",
+        "name": "113. Yin",
         "role": ["Fighter", "Assassin"],
         "lane": ["Jungle", "Exp Lane"],
         "icons": {
