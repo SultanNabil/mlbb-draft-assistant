@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Miya",
+        "name": "1. Miya",
         "role": ["Marksman"],
         "lane": ["Gold Lane"],
         "icons": {
@@ -18,7 +18,7 @@
     },
     {
         "id": 2,
-        "name": "Balmond",
+        "name": "2. Balmond",
         "role": ["Fighter"],
         "lane": ["Jungle", "Exp Lane"],
         "icons": {
@@ -34,7 +34,7 @@
     },
     {
         "id": 3,
-        "name": "Saber",
+        "name": "3. Saber",
         "role": ["Assassin"],
         "lane": ["Jungle", "Roam"],
         "icons": {
@@ -51,7 +51,7 @@
     },
     {
         "id": 4,
-        "name": "Alice",
+        "name": "4. Alice",
         "role": ["Tank", "Mage"],
         "lane": ["Exp Lane", "Jungle"],
         "icons": {
@@ -69,7 +69,7 @@
     },
     {
         "id": 5,
-        "name": "Nana",
+        "name": "5. Nana",
         "role": ["Mage"],
         "lane": ["Mid Lane"],
         "icons": {
@@ -83,7 +83,7 @@
     },
     {
         "id": 6,
-        "name": "Tigreal",
+        "name": "6. Tigreal",
         "role": ["Tank"],
         "lane": ["Roam"],
         "icons": {
@@ -99,7 +99,7 @@
     },
     {
         "id": 7,
-        "name": "Alucard",
+        "name": "7. Alucard",
         "role": ["Fighter", "Assassin"],
         "lane": ["Jungle"],
         "icons": {
@@ -115,7 +115,7 @@
     },
     {
         "id": 8,
-        "name": "Karina",
+        "name": "8. Karina",
         "role": ["Assassin"],
         "lane": ["Jungle"],
         "icons": {
@@ -131,7 +131,7 @@
     },
     {
         "id": 9,
-        "name": "Akai",
+        "name": "9. Akai",
         "role": ["Tank"],
         "lane": ["Roam"],
         "icons": {
@@ -145,7 +145,7 @@
     },
     {
         "id": 10,
-        "name": "Franco",
+        "name": "10. Franco",
         "role": ["Tank"],
         "lane": ["Roam"],
         "icons": {
@@ -162,7 +162,7 @@
     },
     {
         "id": 11,
-        "name": "Bane",
+        "name": "11. Bane",
         "role": ["Fighter", "Mage"],
         "lane": ["Jungle", "Exp Lane"],
         "icons": {
@@ -176,7 +176,7 @@
     },
     {
         "id": 12,
-        "name": "Bruno",
+        "name": "12. Bruno",
         "role": ["Marksman"],
         "lane": ["Gold Lane"],
         "icons": {
@@ -192,7 +192,7 @@
     },
     {
         "id": 13,
-        "name": "Clint",
+        "name": "13. Clint",
         "role": ["Marksman"],
         "lane": ["Gold Lane"],
         "icons": {
@@ -206,7 +206,7 @@
     },
     {
         "id": 14,
-        "name": "Rafaela",
+        "name": "14. Rafaela",
         "role": ["Support"],
         "lane": ["Roam"],
         "icons": {
@@ -223,7 +223,7 @@
     },
     {
         "id": 15,
-        "name": "Eudora",
+        "name": "15. Eudora",
         "role": ["Mage"],
         "lane": ["Mid Lane"],
         "icons": {
@@ -240,7 +240,7 @@
     },
     {
         "id": 16,
-        "name": "Zilong",
+        "name": "16. Zilong",
         "role": ["Fighter", "Assassin"],
         "lane": ["Exp Lane"],
         "icons": {
@@ -256,7 +256,7 @@
     },
     {
         "id": 17,
-        "name": "Fanny",
+        "name": "17. Fanny",
         "role": ["Assassin"],
         "lane": ["Jungle"],
         "icons": {
@@ -272,7 +272,7 @@
     },
     {
         "id": 18,
-        "name": "Layla",
+        "name": "18. Layla",
         "role": ["Marksman"],
         "lane": ["Gold Lane"],
         "icons": {
@@ -289,7 +289,7 @@
     },
     {
         "id": 19,
-        "name": "Minotaur",
+        "name": "19. Minotaur",
         "role": ["Tank", "Support"],
         "lane": ["Roam"],
         "icons": {
@@ -306,7 +306,7 @@
     },
     {
         "id": 20,
-        "name": "Lolita",
+        "name": "20. Lolita",
         "role": ["Support", "Tank"],
         "lane": ["Roam"],
         "icons": {
@@ -332,7 +332,7 @@
     },
     {
         "id": 21,
-        "name": "Hayabusa",
+        "name": "21. Hayabusa",
         "role": ["Assassin"],
         "lane": ["Jungle"],
         "icons": {
@@ -346,7 +346,7 @@
     },
     {
         "id": 22,
-        "name": "Freya",
+        "name": "22. Freya",
         "role": ["Fighter"],
         "lane": ["Exp Lane", "Jungle"],
         "icons": {
@@ -363,7 +363,7 @@
     },
     {
         "id": 23,
-        "name": "Gord",
+        "name": "23. Gord",
         "role": ["Mage"],
         "lane": ["Mid Lane"],
         "icons": {
@@ -379,7 +379,7 @@
     },
     {
         "id": 24,
-        "name": "Natalia",
+        "name": "24. Natalia",
         "role": ["Assassin"],
         "lane": ["Jungle", "Roam"],
         "icons": {
@@ -404,7 +404,7 @@
     },
     {
         "id": 25,
-        "name": "Kagura",
+        "name": "25. Kagura",
         "role": ["Mage"],
         "lane": ["Mid Lane"],
         "icons": {
@@ -418,7 +418,7 @@
     },
     {
         "id": 26,
-        "name": "Chou",
+        "name": "26. Chou",
         "role": ["Fighter"],
         "lane": ["Exp Lane", "Roam"],
         "icons": {
@@ -432,7 +432,7 @@
     },
     {
         "id": 27,
-        "name": "Sun",
+        "name": "27. Sun",
         "role": ["Fighter"],
         "lane": ["Exp Lane", "Jungle"],
         "icons": {
@@ -454,7 +454,7 @@
     },
     {
         "id": 28,
-        "name": "Alpha",
+        "name": "28. Alpha",
         "role": ["Fighter"],
         "lane": ["Jungle", "Exp Lane"],
         "icons": {
@@ -468,7 +468,7 @@
     },
     {
         "id": 29,
-        "name": "Ruby",
+        "name": "29. Ruby",
         "role": ["Fighter"],
         "lane": ["Exp Lane"],
         "icons": {
@@ -482,7 +482,7 @@
     },
     {
         "id": 30,
-        "name": "Yi Sun-shin",
+        "name": "30. Yi Sun-shin",
         "role": ["Assassin", "Marksman"],
         "lane": ["Jungle"],
         "icons": {
@@ -496,7 +496,7 @@
     },
     {
         "id": 31,
-        "name": "Moskov",
+        "name": "31. Moskov",
         "role": ["Marksman"],
         "lane": ["Gold Lane"],
         "icons": {
@@ -513,7 +513,7 @@
     },
     {
         "id": 32,
-        "name": "Johnson",
+        "name": "32. Johnson",
         "role": ["Tank", "Support"],
         "lane": ["Roam"],
         "icons": {
@@ -527,7 +527,7 @@
     },
     {
         "id": 33,
-        "name": "Cyclops",
+        "name": "33. Cyclops",
         "role": ["Mage"],
         "lane": ["Mid Lane"],
         "icons": {
@@ -541,7 +541,7 @@
     },
     {
         "id": 34,
-        "name": "Estes",
+        "name": "34. Estes",
         "role": ["Support"],
         "lane": ["Roam"],
         "icons": {
@@ -560,7 +560,7 @@
     },
     {
         "id": 35,
-        "name": "Hilda",
+        "name": "35. Hilda",
         "role": ["Fighter", "Tank"],
         "lane": ["Roam", "Exp Lane"],
         "icons": {
@@ -574,7 +574,7 @@
     },
     {
         "id": 36,
-        "name": "Aurora",
+        "name": "36. Aurora",
         "role": ["Mage"],
         "lane": ["Mid Lane"],
         "icons": {
@@ -592,7 +592,7 @@
     },
     {
         "id": 37,
-        "name": "Lapu-Lapu",
+        "name": "37. Lapu-Lapu",
         "role": ["Fighter"],
         "lane": ["Exp Lane"],
         "icons": {
@@ -606,7 +606,7 @@
     },
     {
         "id": 38,
-        "name": "Vexana",
+        "name": "38. Vexana",
         "role": ["Mage"],
         "lane": ["Mid Lane"],
         "icons": {
@@ -620,7 +620,7 @@
     },
     {
         "id": 39,
-        "name": "Roger",
+        "name": "39. Roger",
         "role": ["Fighter", "Marksman"],
         "lane": ["Jungle"],
         "icons": {
@@ -637,7 +637,7 @@
     },
     {
         "id": 40,
-        "name": "Karrie",
+        "name": "40. Karrie",
         "role": ["Marksman"],
         "lane": ["Gold Lane"],
         "icons": {
@@ -651,7 +651,7 @@
     },
     {
         "id": 41,
-        "name": "Gatotkaca",
+        "name": "41. Gatotkaca",
         "role": ["Tank", "Fighter"],
         "lane": ["Roam", "Exp Lane"],
         "icons": {
@@ -665,7 +665,7 @@
     },
     {
         "id": 42,
-        "name": "Harley",
+        "name": "42. Harley",
         "role": ["Assassin", "Mage"],
         "lane": ["Jungle"],
         "icons": {
@@ -1434,15 +1434,15 @@
         },
         "counters": [
             80, 123, 95, 97, 15, 17, 47, 51, 57, 96, 120, 128, 122, 11, 12, 52,
-            56, 68, 121, 3, 124
+            56, 68, 121, 3, 124, 89, 104, 102, 76, 100, 3
         ],
         "counteredBy": [
             99, 45, 27, 82, 29, 1, 39, 59, 61, 72, 77, 114, 126, 127, 54, 76,
-            94, 62, 46, 67
+            94, 62, 46, 67, 110, 12
         ],
         "synergy": [
             124, 67, 70, 62, 104, 32, 37, 38, 41, 44, 45, 47, 68, 81, 97, 128,
-            31, 58, 77, 105, 113, 119, 13, 65, 66, 72, 111, 86, 115, 122
+            31, 58, 77, 105, 113, 119, 13, 65, 66, 72, 111, 86, 115, 122, 101
         ],
         "antiSynergy": [
             110, 64, 123, 108, 55, 74, 22, 34, 40, 103, 127, 106, 130, 100, 39,
@@ -2155,5 +2155,33 @@
         "counteredBy": [87, 70, 1, 94, 59, 46, 34],
         "synergy": [69, 42, 38, 85, 94, 104, 17, 32, 9, 119],
         "antiSynergy": [18, 114, 65, 31, 1, 73, 107, 43, 88]
+    },
+    {
+        "id": 131,
+        "name": "Sora",
+        "role": ["Fighter", "Assassin"],
+        "lane": ["Exp Lane"],
+        "icons": {
+            "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
+            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_4749a1f7fe99cbedfc5ef23fc1287d6c.png"
+        },
+        "counters": [121, 56, 68, 76, 118, 55, 50, 98, 14, 48],
+        "counteredBy": [121, 124, 106, 22, 118],
+        "synergy": [102, 101, 124, 86, 52],
+        "antiSynergy": [106, 95, 64, 123, 82]
+    },
+    {
+        "id": 132,
+        "name": "Marcel",
+        "role": ["Support"],
+        "lane": ["Roam"],
+        "icons": {
+            "round": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_df7603c292198bf4aa7b551d401ea5c1.png",
+            "rectangle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_dd980a8816698f1503cdb76201d17dd0.png"
+        },
+        "counters": [124, 93, 105, 98, 99, 18, 38],
+        "counteredBy": [113, 109, 112, 52, 18, 84, 83],
+        "synergy": [102, 112, 110, 131, 60, 121],
+        "antiSynergy": [43, 92, 110, 41, 131]
     }
 ]
